@@ -1,0 +1,3 @@
+Source,Energy_keV,Tilt_deg,Fluence_ions_cm2,Depth_nm
+Our SRIM simulation,100.0,7.0,,102.1
+Published Mg:GaN experiment,100.0,7.0,300000000000000.0,100.0
